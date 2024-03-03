@@ -12,7 +12,7 @@
 
     // Crée un tableau de chaînes HTML, chaque élément représentant un contenu différent pour chaque étape.
 
-const steps = ["Ceci est la première étape", Ceci est la deuxième étape", "Ceci est la troisième étape", "Ceci est la quatrième étape"] 
+const steps = ["Ceci est la première étape", "Ceci est la deuxième étape", "Ceci est la troisième étape", "Ceci est la quatrième étape"] 
 
     // Met à jour automatiquement la valeur de 'slide' en fonction de 'currentStep'.
     // Si 'currentStep' est défini, 'slide' prend sa valeur. Sinon, 'slide' vaut "0".
