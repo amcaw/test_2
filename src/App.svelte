@@ -54,7 +54,6 @@ const steps = ["Ceci est la première étape", "Ceci est la deuxième étape", "
 	:root {
   --background-step: rgba(245, 245, 245, 0.8);
   --shadow-step: 1px 1px 10px rgba(0, 0, 0, 0.2);
-  --max-width-step: 500px;
   --step-margin: 20px;
 }
 
@@ -122,7 +121,7 @@ const steps = ["Ceci est la première étape", "Ceci est la deuxième étape", "
   text-align: left;
   width: 75%;
   margin: auto;
-  max-width: var(--max-width-step);
+  width: 500px;
 }
 
 @media screen and (max-width: 768px) {
