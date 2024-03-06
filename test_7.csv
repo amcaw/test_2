@@ -1,0 +1,102 @@
+destination_iso2,destination_country,destination_region,destination_regions,pricing_scenario,pricing_scenario_name,version,value_tonne,value_eur,value_usd,capital_city,latitude,longitude
+,,Others,,default,USD60/bbl (actual),v2,1231247.786494,771568430.104992,836487459.0507554,,,
+AE,United Arab Emirates,Others,['Others'],default,USD60/bbl (actual),v2,10602234.256,6254607801.189393,6767048931.279786,Abu Dhabi,24.0,54.0
+AO,Angola,Others,['Others'],default,USD60/bbl (actual),v2,221438.397,166087464.798228,179744932.02019826,Luanda,-12.5,18.5
+AR,Argentina,Others,['Others'],default,USD60/bbl (actual),v2,49376.953,35080597.334442,37898818.0875844,Buenos Aires,-34.0,-64.0
+AT,Austria,EU,"['EU', 'PCC']",default,USD60/bbl (actual),v2,3677327.044008149,2126696262.9780853,2296476737.606461,Vienna,47.33333333,13.33333333
+AU,Australia,Others,['PCC'],default,USD60/bbl (actual),v2,64999.899,31913409.82704,34983479.85240125,Canberra,-27.0,133.0
+AZ,Azerbaijan,Others,['Others'],default,USD60/bbl (actual),v2,1012727.378,416935242.360494,451691799.6999406,Baku,40.5,47.5
+BD,Bangladesh,Others,['Others'],default,USD60/bbl (actual),v2,48012.0,9342221.134,10093908.974961,Dhaka,24.0,90.0
+BE,Belgium,EU,"['EU', 'PCC']",default,USD60/bbl (actual),v2,6572641.75781017,3650071909.583097,3931900090.168656,Brussels,50.83333333,4.0
+BG,Bulgaria,EU,"['EU', 'PCC']",default,USD60/bbl (actual),v2,7505884.128297185,3253772865.0360103,3519620254.44081,Sofia,43.0,25.0
+BJ,Benin,Others,['Others'],default,USD60/bbl (actual),v2,197563.761,156241492.655079,169463140.85586357,Porto-Novo,9.5,2.25
+BN,Brunei Darussalam,Others,['Others'],default,USD60/bbl (actual),v2,612972.190399,249841362.837817,269860107.1835684,Bandar Seri Begawan,4.5,114.66666666
+BR,Brazil,Others,['Others'],default,USD60/bbl (actual),v2,10633139.843,7633356778.23635,8272482222.941565,BrasÃ­lia,-10.0,-55.0
+CD,DR Congo,Others,['Others'],default,USD60/bbl (actual),v2,76938.924,59927066.554083,65010413.98067045,Kinshasa,0.0,25.0
+CG,Congo Republic,Others,['Others'],default,USD60/bbl (actual),v2,212162.165,132146912.44471,145306929.32577097,Brazzaville,-1.0,15.0
+CH,Switzerland,Others,['Others'],default,USD60/bbl (actual),v2,608.88190656,269774.66658878146,295453.797210918,Bern,47.0,8.0
+CI,Cote d'Ivoire,Others,['Others'],default,USD60/bbl (actual),v2,507618.057,400416048.938922,433024343.3122472,Yamoussoukro,8.0,-5.0
+CM,Cameroon,Others,['Others'],default,USD60/bbl (actual),v2,36372.921,29293550.267007,31543631.80979099,YaoundÃ©,6.0,12.0
+CN,China,China,['Others'],default,USD60/bbl (actual),v2,251549507.5571425,97574042924.23788,105596882597.6777,Beijing,35.0,105.0
+CR,Costa Rica,Others,['Others'],default,USD60/bbl (actual),v2,8209.983,4230423.620274,4529091.527865345,San JosÃ©,10.0,-84.0
+CU,Cuba,Others,['Others'],default,USD60/bbl (actual),v2,336825.391,172983316.093162,187634868.5386786,Havana,21.5,-80.0
+CV,Cabo Verde,Others,['Others'],default,USD60/bbl (actual),v2,93831.157,68600804.986643,74298940.96782726,Praia,16.5388,23.0418
+CW,Curacao,Others,['Others'],default,USD60/bbl (actual),v2,11574.39,8337623.41089,8987958.03693942,Willemstad,12.116667,-68.933333
+CY,Cyprus,EU,"['EU', 'PCC']",default,USD60/bbl (actual),v2,52623.675,28866385.909314,31051450.51484769,Nicosia,35.0,33.0
+CZ,Czech Republic,EU,"['EU', 'PCC']",default,USD60/bbl (actual),v2,5603070.231629585,2670945259.833736,2890305185.992342,Prague,49.75,15.5
+DE,Germany,EU,"['EU', 'G7', 'PCC']",default,USD60/bbl (actual),v2,910612.44701934,689118960.5834107,741734975.8053807,Berlin,51.0,9.0
+DJ,Djibouti,Others,['Others'],default,USD60/bbl (actual),v2,40585.392,29550723.10608,32154874.78189545,Djibouti,11.5,43.0
+DK,Denmark,EU,"['EU', 'PCC']",default,USD60/bbl (actual),v2,1350.0,582930.0,639007.866,Copenhagen,56.0,10.0
+DZ,Algeria,Others,['Others'],default,USD60/bbl (actual),v2,276662.92,134210875.985618,145274553.16815737,Algiers,28.0,3.0
+EE,Estonia,EU,"['EU', 'PCC']",default,USD60/bbl (actual),v2,0.1428571428571428,94.94589285714282,103.86132771428568,Tallinn,59.0,26.0
+EG,Egypt,Others,['Others'],default,USD60/bbl (actual),v2,2315238.403,1321800125.583818,1428820909.7318602,Cairo,27.0,30.0
+ES,Spain,EU,"['EU', 'PCC']",default,USD60/bbl (actual),v2,6071415.74317201,3180236550.533257,3439934246.668269,Madrid,40.0,-4.0
+FI,Finland,EU,"['EU', 'PCC']",default,USD60/bbl (actual),v2,181973.7142857143,93383689.40836751,100826341.55166966,Helsinki,64.0,26.0
+FR,France,EU,"['EU', 'G7', 'PCC']",default,USD60/bbl (actual),v2,4808642.44432688,2438253904.966982,2637479298.2035403,Paris,46.0,2.0
+GE,Georgia,Others,['Others'],default,USD60/bbl (actual),v2,263465.252,187816051.262304,203204734.5988361,Tbilisi,42.0,43.5
+GH,Ghana,Others,['Others'],default,USD60/bbl (actual),v2,2539439.057624,1744853090.478117,1890895259.45392,Accra,8.0,-2.0
+GM,Gambia,Others,['Others'],default,USD60/bbl (actual),v2,81456.561,64127956.95876,69693364.46618515,Banjul,13.46666666,-16.56666666
+GN,Guinea,Others,['Others'],default,USD60/bbl (actual),v2,217695.081,113540769.654399,123652719.1195162,Conakry,11.0,-10.0
+GQ,Equatorial Guinea,Others,['Others'],default,USD60/bbl (actual),v2,17732.505,14282699.85978,15579460.88213212,Malabo,2.0,10.0
+GR,Greece,EU,"['EU', 'PCC']",default,USD60/bbl (actual),v2,4490364.24996173,2608137551.7800303,2822716662.932436,Athens,39.0,22.0
+HK,Hong Kong,Others,['Others'],default,USD60/bbl (actual),v2,22121.211,12117335.74947,13252730.10919534,City of Victoria,22.267,114.188
+HR,Croatia,EU,"['EU', 'PCC']",default,USD60/bbl (actual),v2,368912.48032206,199496638.7691405,215189938.18618107,Zagreb,45.16666666,15.5
+HU,Hungary,EU,"['EU', 'PCC']",default,USD60/bbl (actual),v2,10741511.900867565,5473432335.833483,5926529102.485563,Budapest,47.0,20.0
+ID,Indonesia,Others,['Others'],default,USD60/bbl (actual),v2,3483728.11,956594864.916305,1031368969.1486462,Jakarta,-5.0,120.0
+IL,Israel,Others,['Others'],default,USD60/bbl (actual),v2,1883342.223,618799696.004655,670780452.5523268,Jerusalem,31.47,35.13
+IN,India,India,['Others'],default,USD60/bbl (actual),v2,137493634.469499,50851716685.2556,55023274994.32614,New Delhi,20.0,77.0
+IQ,Iraq,Others,['Others'],default,USD60/bbl (actual),v2,75850.443,55375177.226211,59863518.232792005,Baghdad,33.0,44.0
+IR,Iran,Others,['Others'],default,USD60/bbl (actual),v2,25956.663,17265846.08391,18753585.701010168,Tehran,32.0,53.0
+IT,Italy,EU,"['EU', 'G7', 'PCC']",default,USD60/bbl (actual),v2,2177816.020068934,1329370447.8929489,1434113761.54591,Rome,42.83333333,12.83333333
+JM,Jamaica,Others,['Others'],default,USD60/bbl (actual),v2,530590.844,348659814.339119,377565471.4833856,Kingston,18.25,-77.5
+JO,Jordan,Others,['Others'],default,USD60/bbl (actual),v2,68223.393,36417172.598664,38812047.76597224,Amman,31.0,36.0
+JP,Japan,Others,"['G7', 'PCC']",default,USD60/bbl (actual),v2,9768543.40096,4127277976.958504,4456135538.0924,Tokyo,36.0,138.0
+KE,Kenya,Others,['Others'],default,USD60/bbl (actual),v2,13636.389,6698835.187083,7278288.96237188,Nairobi,1.0,38.0
+KR,South Korea,South Korea,['Others'],default,USD60/bbl (actual),v2,30514469.99446,6546987259.489308,7080412806.864708,Seoul,37.0,127.5
+KW,Kuwait,Others,['Others'],default,USD60/bbl (actual),v2,73409.6,36960852.6848,39437229.8146816,Kuwait City,29.5,45.75
+LB,Lebanon,Others,['Others'],default,USD60/bbl (actual),v2,302927.955,238492651.276389,258804031.83782825,Beirut,33.83333333,35.83333333
+LK,Sri Lanka,Others,['Others'],default,USD60/bbl (actual),v2,1941952.64,333503619.20164,362253863.5206425,Sri Jayawardenepura Kotte,7.0,81.0
+LT,Lithuania,EU,"['EU', 'PCC']",default,USD60/bbl (actual),v2,36574.7497142857,20894517.65265016,22539870.03634347,Vilnius,56.0,24.0
+LU,Luxembourg,EU,"['EU', 'PCC']",default,USD60/bbl (actual),v2,3.60732738,2318.81157484428,2478.579256673843,Luxembourg,49.75,6.16666666
+LV,Latvia,EU,"['EU', 'PCC']",default,USD60/bbl (actual),v2,660797.0680294614,431472925.7336263,467381138.1006145,Riga,57.0,25.0
+LY,Libya,Others,['Others'],default,USD60/bbl (actual),v2,3685381.535,2777869625.21047,3009171957.1018515,Tripoli,25.0,17.0
+MA,Morocco,Others,['Others'],default,USD60/bbl (actual),v2,3631097.62100078,1859956403.1529543,2008248074.677172,Rabat,32.0,-5.0
+MD,Moldova,Others,['Others'],default,USD60/bbl (actual),v2,2247207.36051828,994067364.5298928,1074713968.7796452,ChiÈ™inÄƒu,47.0,29.0
+MK,North Macedonia,Others,['Others'],default,USD60/bbl (actual),v2,290197.26425481,128448147.95421436,138833047.1390106,Skopje,41.83333333,22.0
+MM,Myanmar,Others,['Others'],default,USD60/bbl (actual),v2,2959630.476101,1205500638.471628,1311147083.208206,Naypyidaw,22.0,98.0
+MT,Malta,EU,"['EU', 'PCC']",default,USD60/bbl (actual),v2,614949.481,413651451.666259,450944499.26799136,Valletta,35.9375,14.3754
+MU,Mauritius,Others,['Others'],default,USD60/bbl (actual),v2,37467.498,18512405.601597,19956373.238521565,Port Louis,-20.28333333,57.55
+MY,Malaysia,Others,['Others'],default,USD60/bbl (actual),v2,15693823.613,7080877627.26083,7662493383.17985,Kuala Lumpur,2.5,112.5
+MZ,Mozambique,Others,['Others'],default,USD60/bbl (actual),v2,16363.857,8038695.659679,8812018.18214012,Maputo,-18.25,35.0
+NG,Nigeria,Others,['Others'],default,USD60/bbl (actual),v2,2700162.355506,1902674431.485592,2060957953.6533997,Abuja,10.0,8.0
+NL,Netherlands,EU,"['EU', 'PCC']",default,USD60/bbl (actual),v2,1755104.21833326,1012401260.3994652,1093377805.6240113,Amsterdam,52.5,5.75
+NO,Norway,Others,['Others'],default,USD60/bbl (actual),v2,67608.0,41956568.028,45127847.05381395,Oslo,62.0,10.0
+OM,Oman,Others,['Others'],default,USD60/bbl (actual),v2,774325.107,536057900.95096,580707458.9014912,Muscat,21.0,57.0
+PA,Panama,Others,['Others'],default,USD60/bbl (actual),v2,409554.357,302497601.307159,330183852.12715733,Panama City,9.0,-80.0
+PH,Philippines,Others,['Others'],default,USD60/bbl (actual),v2,287032.15,73159542.05775,79707168.44483665,Manila,13.0,122.0
+PK,Pakistan,Others,['Others'],default,USD60/bbl (actual),v2,412281.522,182879687.81523,196707624.55878705,Islamabad,30.0,70.0
+PL,Poland,EU,"['EU', 'PCC']",default,USD60/bbl (actual),v2,2035614.718104704,1108567973.507032,1190267314.2497902,Warsaw,52.0,20.0
+PT,Portugal,EU,"['EU', 'PCC']",default,USD60/bbl (actual),v2,345827.7053585,180857998.92553613,195457813.0483088,Lisbon,39.5,-8.0
+RO,Romania,EU,"['EU', 'PCC']",default,USD60/bbl (actual),v2,1804376.3217818656,1087857011.098029,1179870697.8890483,Bucharest,46.0,25.0
+RS,Serbia,Others,['Others'],default,USD60/bbl (actual),v2,2303845.29346287,921690356.7192016,995801593.7819692,Belgrade,44.0,21.0
+SA,Saudi Arabia,Others,['Others'],default,USD60/bbl (actual),v2,8564966.729,5166991320.677833,5618808475.550191,Riyadh,25.0,45.0
+SD,Sudan,Others,['Others'],default,USD60/bbl (actual),v2,40000.35,31551996.07755,34606229.29785684,Khartoum,15.0,30.0
+SE,Sweden,EU,"['EU', 'PCC']",default,USD60/bbl (actual),v2,94163.709,50569772.291019,54777810.08459972,Stockholm,62.0,15.0
+SG,Singapore,Others,['Others'],default,USD60/bbl (actual),v2,8469687.886,5178782505.572503,5611095309.754656,Singapore,1.36666666,103.8
+SI,Slovenia,EU,"['EU', 'PCC']",default,USD60/bbl (actual),v2,376387.97876262,231574783.9952557,249796137.8014744,Ljubljana,46.11666666,14.81666666
+SK,Slovakia,EU,"['EU', 'PCC']",default,USD60/bbl (actual),v2,8351576.943848281,4280178707.75588,4631516124.271161,Bratislava,48.66666666,19.5
+SM,San Marino,Others,['Others'],default,USD60/bbl (actual),v2,1170.41600829,518830.5664993071,561395.914467053,City of San Marino,43.76666666,12.41666666
+SN,Senegal,Others,['Others'],default,USD60/bbl (actual),v2,3000683.873,1748108724.087843,1894561504.470908,Dakar,14.0,-14.0
+TG,Togo,Others,['Others'],default,USD60/bbl (actual),v2,705125.115,536901690.012615,584044333.3821529,LomÃ©,8.0,1.16666666
+TH,Thailand,Others,['Others'],default,USD60/bbl (actual),v2,298481.437,81639107.015769,88033361.51168309,Bangkok,15.0,100.0
+TM,Turkmenistan,Others,['Others'],default,USD60/bbl (actual),v2,3841.185,1881077.530035,2029357.0219736856,Ashgabat,40.0,60.0
+TN,Tunisia,Others,['Others'],default,USD60/bbl (actual),v2,3600666.055,2595255672.375327,2809020491.522384,Tunis,34.0,9.0
+TR,Turkey,Turkey,['Others'],default,USD60/bbl (actual),v2,82946661.97691675,36386018494.36437,39390235601.23886,Ankara,39.0,35.0
+TT,Trinidad and Tobago,Others,['Others'],default,USD60/bbl (actual),v2,235188.516,160406974.192032,175271316.0250246,Port of Spain,10.6918,-61.2225
+TW,Taiwan,Others,['Others'],default,USD60/bbl (actual),v2,11731869.118,3052768817.3008,3304091011.8721867,Taipei,23.5,121.0
+TZ,Tanzania,Others,['Others'],default,USD60/bbl (actual),v2,68504.709,56288264.24403,61736968.2228521,Dodoma,-6.0,35.0
+US,United States,United States,"['G7', 'PCC']",default,USD60/bbl (actual),v2,211957.929,112524213.075816,122119916.36919044,"Washington, D.C.",38.0,-97.0
+VE,Venezuela,Others,['Others'],default,USD60/bbl (actual),v2,25918.878,19317028.746864,21175326.91231232,Caracas,8.0,-66.0
+VN,Vietnam,Others,['Others'],default,USD60/bbl (actual),v2,4002780.695,658141434.278025,714918657.7615848,Hanoi,16.16666666,107.83333333
+YE,Yemen,Others,['Others'],default,USD60/bbl (actual),v2,448588.962,358548059.189247,387544746.670173,Sana'a,15.0,48.0
+ZA,South Africa,Others,['Others'],default,USD60/bbl (actual),v2,422229.466,139880909.769015,152333468.13156092,Pretoria,-29.0,24.0
